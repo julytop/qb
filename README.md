@@ -60,7 +60,7 @@ GET http://interview-test.ipmapp.cn/api/v1/record?classify=0
 
 | 名称  | 说明  | 备注
 |:----:|:----:|:----:|
-|classify|所属类别索引(可选)||
+|classify|所属类别索引(可选)|为类别列表编号()|
 
 > 服务响应的格式：
 ``` json
