@@ -3,7 +3,7 @@
 
 # 代码提交
 > fork本仓库代码到自己的github下，并在根目录下用自己的汉语拼音新建一个文件夹，在自己的文件夹下开始开发。完成之后发起一个PR。
-> 有问题发邮件到 aixiaoxiang2009@hotmail.com
+  有问题发邮件到 aixiaoxiang2009@hotmail.com
 
 ---
 ![效果图](1.png)
