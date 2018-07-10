@@ -61,10 +61,11 @@ GET http://interview-test.ipmapp.cn/api/v1/record?classify=0
 | 名称  | 说明  | 备注
 |:----:|:----:|:----:|
 |classify|所属类别索引(可选)||
+
 > 服务响应的格式：
 ``` json
 {
-    "code":200,
+    "code":200,//200~299之间表示成功
     "page":{
         "count":25,
         "size":25,
